@@ -12,5 +12,4 @@ My last startup was in climate-tech 🌎.
 I built infrastructure and pipelines to process **~100TB/day** of Earth imagery 📷.
 I won the Google Cloud All-Star award 🏅.
 
-[More about me]({{< ref "about" >}})
-
+[more about me]({{< ref "about" >}})
